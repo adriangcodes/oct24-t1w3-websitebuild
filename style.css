@@ -1,0 +1,12 @@
+:root {
+    --onyx: #343e3dff;
+    --hookers-green: #607466ff;
+    --celadon: #aedcc0ff;
+    --emerald: #7bd389ff;
+    --aquamarine: #38e4aeff;
+}
+
+h1 {
+    color: var(--onyx);
+}
+
